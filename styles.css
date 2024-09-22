@@ -10,9 +10,7 @@ body{
 	display:flex;
 	flex-direction:column;
 }
-.blogImage{
-	height:200px;
-}
+
 p{
 	color:blue;
 }
